@@ -1,3 +1,7 @@
+Technology used 
+Next js
+tailwind css
+
 Getting Started
 Follow these steps to run the project locally:
 
